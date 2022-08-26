@@ -20,7 +20,7 @@ const App = () => {
           },
         }}>
         <Tabs.Screen
-          name="coins"
+          name="meli-coins"
           component={CoinsStack}
           options={{
             tabBarIcon: ({size, color}) => (
