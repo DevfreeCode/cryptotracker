@@ -32,7 +32,7 @@ const App = () => {
           }}
         />
         <Tabs.Screen
-          name="favorites"
+          name="favoritos"
           component={FavoritesStack}
           options={{
             tabBarIcon: ({size, color}) => (
